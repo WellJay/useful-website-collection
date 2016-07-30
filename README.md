@@ -7,4 +7,12 @@
 [OneAPM](http://www.oneapm.com/)：提供端到端APM应用性能管理软件及应用性能监控软件解决方案  
 [OneASP](https://www.oneasp.com/)：安全自适应平台,云安全解决方案,安全可视化SaaS平台
 
+#tools-website
+[TusFiles](https://tusfiles.net/)：经常遇到有些国外网站资源下载很慢(就算挂了代理一样),TusFiles可以带下载，速度很快!  
+[Cmd Markdown](https://www.zybuluo.com/mdeditor)：优雅的在线Markdown编辑器  
+[Intellij快捷键](http://intellij.linesh.tw/)：整理的常用Idea快捷键  
+[在线uml](https://www.processon.com/)：在线uml等...
 
+#resources-website
+[千库网](http://588ku.com/)：比那渣渣千图网图片质量不知道好哪儿去了，关键每天还有几次免费下载
+[技匠社](http://jijiangshe.com/)：全TM是分享的好资源(设计、开发、移动、工具)
