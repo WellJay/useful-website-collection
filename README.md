@@ -13,7 +13,8 @@
 [Intellij快捷键](http://intellij.linesh.tw/)：整理的常用Idea快捷键  
 [在线uml](https://www.processon.com/)：在线uml等...  
 [Google网页性能工具](https://developers.google.com/speed/pagespeed/insights/)：网站优化及建议  
-[在线编辑图片](https://photoeditor.polarr.co/)：功能强大,再也不用安装PS了  
+[在线编辑图片](https://photoeditor.polarr.co/)：功能强大,再也不用安装PS了
+[AI人工智能图片放大](http://bigjpg.com/)：使用最新人工智能深度学习技术，实现图片的无损放大。
 
 # resources-website
 [千库网](http://588ku.com/)：比那渣渣千图网图片质量不知道好哪儿去了，关键每天还有几次免费下载  
