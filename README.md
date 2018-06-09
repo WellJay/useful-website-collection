@@ -18,5 +18,5 @@
 [代码美化](https://carbon.now.sh/)：代码界的美图秀秀
 
 # resources-website
-[千库网](http://588ku.com/)：比那渣渣千图网图片质量不知道好哪儿去了，关键每天还有几次免费下载  
+[千库网](http://588ku.com/)：图片质量好，每天有免费下载  
 [技匠社](http://jijiangshe.com/)：全TM是分享的好资源(设计、开发、移动、工具)  
