@@ -15,7 +15,8 @@
 [Google网页性能工具](https://developers.google.com/speed/pagespeed/insights/)：网站优化及建议  
 [在线编辑图片](https://photoeditor.polarr.co/)：功能强大,再也不用安装PS了  
 [AI人工智能图片放大](http://bigjpg.com/)：使用最新人工智能深度学习技术，实现图片的无损放大  
-[代码美化](https://carbon.now.sh/)：代码界的美图秀秀
+[代码美化](https://carbon.now.sh/)：代码界的美图秀秀  
+[精准ip定位](https://ip.rtbasia.com/)：真的很准...
 
 # resources-website
 [千库网](http://588ku.com/)：图片质量好，每天有免费下载  
